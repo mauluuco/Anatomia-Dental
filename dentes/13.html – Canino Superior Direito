@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>13 – Canino Superior Direito</title>
+  <link rel="stylesheet" href="../style.css">
+</head>
+<body>
+  <header>
+    <h1>13 – Canino Superior Direito</h1>
+  </header>
+  <main>
+    <ul>
+      <li>Forma da coroa: pentagonal</li>
+      <li>Face vestibular: proeminente com cúspide bem definida</li>
+      <li>Formação: inicia entre 4-5 meses</li>
+      <li>Irrupção: entre 11 e 12 anos</li>
+      <li>Diferenciais: raiz longa e robusta, cúspide proeminente, cristas marginais bem desenvolvidas</li>
+    </ul>
+    <a href="../index.html">← Voltar</a>
+  </main>
+  <footer>
+    <p>Mauro Lima – UFMG</p>
+  </footer>
+</body>
+</html>
